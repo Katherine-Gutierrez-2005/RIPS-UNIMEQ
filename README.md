@@ -2,7 +2,7 @@
 
 Primero se accede al software médico:
 
-![image](https://github.com/user-attachments/assets/e251c90f-3f10-412c-ab72-6095e8a43255)
+![image](https://github.com/user-attachments/assets/15f50224-0168-4d3d-985d-9bd6034e6ddf)
 
 Luego se accede al validador para RIPS:
 
